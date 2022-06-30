@@ -1,4 +1,4 @@
-classdef CHANNEL_TYPE < int32
+classdef CHANNEL_TYPE < double
     %CHANNEL_TYPE Enumeration class for different OmniPlex channel types.
     %   
     %   opx.CHANNEL_TYPE.SPIKE == 1

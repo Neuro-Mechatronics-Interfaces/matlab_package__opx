@@ -1,4 +1,4 @@
-classdef ERROR < int32
+classdef ERROR < double
     %ERROR Enumeration class for different OmniPlex error codes.
     %   
     %     opx.ERROR.NOERROR           (0)  % No error!

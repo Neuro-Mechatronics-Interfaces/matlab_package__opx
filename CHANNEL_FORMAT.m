@@ -1,4 +1,4 @@
-classdef CHANNEL_FORMAT < int32
+classdef CHANNEL_FORMAT < double
     %CHANNEL_FORMAT Enumeration class for different OmniPlex channel formats.
     %   
     %   opx.CHANNEL_FORMAT.LINEAR == 1

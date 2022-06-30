@@ -1,4 +1,4 @@
-classdef DAQ < int32
+classdef DAQ < double
     %DAQ Enumeration class for different OmniPlex DAQ states.
     %   
     %   opx.DAQ.STOPPED   == 1

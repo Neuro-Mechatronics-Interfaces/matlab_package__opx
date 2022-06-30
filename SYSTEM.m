@@ -1,4 +1,4 @@
-classdef SYSTEM < int32
+classdef SYSTEM < double
     %SYSTEM Enumeration class for different OmniPlex systems.
     %   
     %   opx.SYSTEM.TESTADC    == 1
